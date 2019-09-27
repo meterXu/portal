@@ -1,0 +1,16 @@
+{
+  "name": "portal",
+  "version": "1.0.0",
+  "description": "isaacxu门户",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev doc",
+    "build": "vuepress build doc"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "vuepress": "^0.14.1",
+    "webpack-dev-middleware": "3.6.0"
+  }
+}

@@ -1,0 +1,15 @@
+{
+    "title": "",
+    "description": "Creative Agency",
+    "logo": "/upload/logo.png",
+    "footer": "Ⓒ isaacxu",
+    "favicon": "/upload/logo.png",
+    "navigation": [
+      {
+        "text": "打个招呼!",
+        "link": "mailto:xhgainxq@gmail.com",
+        "position": "right",
+        "external": true
+      }
+    ]
+  }

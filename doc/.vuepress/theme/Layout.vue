@@ -19,8 +19,6 @@
       <div v-if="isSingleProject">
         <SingleProjectHeader
           :title="$page.frontmatter.title"
-          :year="$page.frontmatter.year.toString()"
-          :categories="$page.frontmatter.categories"
         />
         <Content/>
       </div>

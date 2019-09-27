@@ -1,6 +1,6 @@
 ---
 title: MtCloud
-thumbnail: "/upload/1.jpg"
+thumbnail: "http://7u.isaacxu.com/portal_1.jpg"
 url: "https://app.isaacxu.com/cloud/"
 sort: 1
 description: 家庭私有云

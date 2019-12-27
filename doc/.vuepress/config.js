@@ -6,6 +6,7 @@ module.exports = {
   themeConfig: {
     logo: config.logo,
     footer: config.footer,
+    record: config.record,
     nav: config.navigation,
   },
   head: [

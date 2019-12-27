@@ -3,6 +3,10 @@
     "description": "Creative Agency",
     "logo": "/upload/logo.png",
     "footer": "Ⓒ isaacxu",
+    "record": {
+      "title": "苏ICP备14021518号-2",
+      "url": "http://www.beian.miit.gov.cn"
+    },
     "favicon": "/upload/logo.png",
     "navigation": [
       {

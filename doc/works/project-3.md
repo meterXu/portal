@@ -1,6 +1,6 @@
 ---
 title: Aria2
-thumbnail: "https://server.isaacxu.com:3001/exca/getImg?code=portal_3"
+thumbnail: "http://7u.isaacxu.com/portal_3.jpg"
 url: "https://app.isaacxu.com/aria2/"
 sort: 3
 description: 小饼干下载器
